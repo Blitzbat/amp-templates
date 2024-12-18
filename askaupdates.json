@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Dedicated Server",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "3246670",
+        "UpdateSourceArgs": "1898300",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
