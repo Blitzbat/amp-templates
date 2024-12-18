@@ -1,7 +1,10 @@
 [
     {
         "ConfigFile": "server properties.txt",
-        "ConfigType": "ini",
-        "AutoMap": true
+        "AutoMap": true,
+        "Importable": true,
+        "ConfigType": "kvp",
+        "ConfigFormat": "{0} = {1}",
+        "ConfigFormatRegex": "^(?<key>.+?)\\s*=\\s*(?<value>.*?)$"
     }
 ]
